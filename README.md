@@ -37,4 +37,4 @@ window.ScrollToTop.show({active: true});
 
 ### Лицензия
 
-bxb-scroll-to-top - программное обеспечение с открытым исходным кодом, распространяющееся по лицензии [MIT license](https://choosealicense.com/licenses/mit/).
+bxb-scroll-to-top - программное обеспечение с открытым исходным кодом, распространяющееся по лицензии [MIT](https://choosealicense.com/licenses/mit/).
