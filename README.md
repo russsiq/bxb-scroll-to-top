@@ -10,7 +10,7 @@ npm i bxb-scroll-to-top --save-dev
 
 ### Getting started
 
-To start using `bxb-loading-layer`, you need to do is plugin installation. Somewhere in your main app.js file:
+To start using `bxb-scroll-to-top`, you need to do is plugin installation. Somewhere in your main app.js file:
 ```js
 // Import components to Vue application as plugins.
 import ScrollToTop from 'bxb-scroll-to-top';
